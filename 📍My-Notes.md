@@ -1,4 +1,4 @@
-# Fromn Linkedin post by owner
+# Fromn Linkedin post - by owner
 
 What if an AI could hack into a system faster than a human pentester for standard CVEs?
 
