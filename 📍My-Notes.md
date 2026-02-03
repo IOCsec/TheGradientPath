@@ -1,11 +1,12 @@
 # Fromn Linkedin post - by owner
-
+---
 ## My notes:
 
 ### Offensive RedTeam project (Agentic Based):
 * https://github.com/IOCsec/TheGradientPath/tree/master/RealWorldProjects/RedAmon  [PATH]
 * Docker (Portainer Stacks Recommended)
-
+---
+## Owner description on Linkedin:
 What if an AI could hack into a system faster than a human pentester for standard CVEs?
 
 A research paper from Portland State University changed how I think about standard offensive security.
