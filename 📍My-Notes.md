@@ -2,8 +2,8 @@
 
 ## My notes:
 
-## Offensive RedTeam project (Agentic Based):
-https://github.com/IOCsec/TheGradientPath/tree/master/RealWorldProjects/RedAmon
+### Offensive RedTeam project (Agentic Based):
+* https://github.com/IOCsec/TheGradientPath/tree/master/RealWorldProjects/RedAmon  [PATH]
 * Docker (Portainer Stacks Recommended)
 
 What if an AI could hack into a system faster than a human pentester for standard CVEs?
