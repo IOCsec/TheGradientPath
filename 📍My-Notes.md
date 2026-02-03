@@ -1,6 +1,7 @@
 # Fromn Linkedin post by owner + My notes
 
-## 💡 My Notes:
+
+**💡 My Notes:**
 
 ### ℹ️ Offensive RedTeam project (Agentic Based):
 * https://github.com/IOCsec/TheGradientPath/tree/master/RealWorldProjects/RedAmon  [PATH]
