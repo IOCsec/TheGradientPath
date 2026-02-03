@@ -1,5 +1,7 @@
 # From Linkedin post by owner + My notes
 
+<br>
+<br>
 
 **💡 My Notes:**
 
