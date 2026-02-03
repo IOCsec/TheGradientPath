@@ -21,6 +21,7 @@ A research paper from Portland State University changed how I think about standa
 An AI that performs complete penetration tests  reconnaissance, exploitation, post-exploitation all autonomously.
 
 🔴 **I had to build it.**
+
 And now I'm giving it away for free.
 
 🎬 Video Tutorial: https://lnkd.in/ddQW3wev
