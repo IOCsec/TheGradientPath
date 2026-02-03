@@ -7,7 +7,8 @@
 * https://github.com/IOCsec/TheGradientPath/tree/master/RealWorldProjects/RedAmon  [PATH]
 * Docker (Portainer Stacks Recommended)
 
-
+<br>
+<br>
 ## Owner description ➜ Linkedin:
 What if an AI could hack into a system faster than a human pentester for standard CVEs?
 
