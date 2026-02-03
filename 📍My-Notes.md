@@ -12,6 +12,7 @@
 <br>
 <br>
 ---
+
 ## Owner description ➜ Linkedin:
 What if an AI could hack into a system faster than a human pentester for standard CVEs?
 
