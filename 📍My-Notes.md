@@ -10,7 +10,6 @@
 * Docker (Portainer Stacks Recommended)
 
 <br>
-<br>
 
 ---
 
